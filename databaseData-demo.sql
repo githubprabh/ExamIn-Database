@@ -8,8 +8,8 @@ INSERT INTO SUBJECT(SUBID,SUBNAME,SUBLEVEL) values(6,'SQL',3);
 	
 
 
-INSERT INTO STUDENT(SID,SNAME,SPASS,SPHONE,SDOB,SCITY,SSTATE,SQUALIFICATION,SCOMPLETIONYEAR) values(1,'KANAV','kanav@gmail.com','abcde','9897401641','27-MAR-1998','Dehradun','Uttrakhand','BTech','2020');
-INSERT INTO STUDENT(SID,SNAME,SPASS,SPHONE,SDOB,SCITY,SSTATE,SQUALIFICATION,SCOMPLETIONYEAR) values(2,'GAGAN','gagan@gmail.com','abcde','9411119897','30-OCT-1998','Delhi','New Delhi','BTech','2020');					
+INSERT INTO STUDENT(SID,SNAME,SEMAIL,SPASS,SPHONE,SDOB,SCITY,SSTATE,SQUALIFICATION,SCOMPLETIONYEAR) values(1,'KANAV','kanav@gmail.com','abcde','9897401641','27-MAR-1998','Dehradun','Uttrakhand','BTech',2020);
+INSERT INTO STUDENT(SID,SNAME,SEMAIL,SPASS,SPHONE,SDOB,SCITY,SSTATE,SQUALIFICATION,SCOMPLETIONYEAR) values(2,'GAGAN','gagan@gmail.com','abcde','9411119897','30-OCT-1998','Delhi','New Delhi','BTech',2020);					
 
 INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) VALUES(1,1,1,'Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);							
 INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) VALUES(2,1,2,'Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);								
