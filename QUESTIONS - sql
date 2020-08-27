@@ -1,3 +1,79 @@
+
+
+JAVA LEVEL 1
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(1,1,1,'(JAVA)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);							
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(2,1,2,'(JAVA)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(3,1,3,'(JAVA)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(4,1,4,'(JAVA)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(5,1,5,'(JAVA)Which concept of Java is achieved by combining methods and attribute into a class?','Encapsulation','Inheritance','Polymorphism','Abstraction',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION)
+VALUES(6,1,6,'(JAVA)What is it called if an object has its own lifecycle and there is no owner?','Aggregation','Composition','Encapsulation','Association',4);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(7,1,7,'(JAVA)What is it called where child object gets killed if parent object is killed?','Aggregation','Composition','Encapsulation','Association',2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(8,1,8,'(JAVA)What is it called where object has its own lifecycle and child object cannot belong to another parent object?','Aggregation','Composition','Encapsulation','Association',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(9,1,9,'(JAVA)Which of the following is used with the switch statement?','Continue','Exit','break','do',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(10,1,10,'(JAVA) Which of the following is not a decision making statement?','if','if-else','switch','do-while',4);
+
+
+JAVA LEVEL 2
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(11,2,1,'(JAVA)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);							
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(12,2,2,'(JAVA)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(13,2,3,'(JAVA)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(14,2,4,'(JAVA)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(15,2,5,'(JAVA)Which concept of Java is achieved by combining methods and attribute into a class?','Encapsulation','Inheritance','Polymorphism','Abstraction',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION)
+VALUES(16,2,6,'(JAVA)What is it called if an object has its own lifecycle and there is no owner?','Aggregation','Composition','Encapsulation','Association',4);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(17,2,7,'(JAVA)What is it called where child object gets killed if parent object is killed?','Aggregation','Composition','Encapsulation','Association',2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(18,2,8,'(JAVA)What is it called where object has its own lifecycle and child object cannot belong to another parent object?','Aggregation','Composition','Encapsulation','Association',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(19,2,9,'(JAVA)Which of the following is used with the switch statement?','Continue','Exit','break','do',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(20,2,10,'(JAVA) Which of the following is not a decision making statement?','if','if-else','switch','do-while',4);
+
+
+JAVA LEVEL 3
+
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(21,3,1,'(JAVA)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);							
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(22,3,2,'(JAVA)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(23,3,3,'(JAVA)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(24,3,4,'(JAVA)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(25,3,5,'(JAVA)Which concept of Java is achieved by combining methods and attribute into a class?','Encapsulation','Inheritance','Polymorphism','Abstraction',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION)
+VALUES(26,3,6,'(JAVA)What is it called if an object has its own lifecycle and there is no owner?','Aggregation','Composition','Encapsulation','Association',4);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(27,3,7,'(JAVA)What is it called where child object gets killed if parent object is killed?','Aggregation','Composition','Encapsulation','Association',2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(28,3,8,'(JAVA)What is it called where object has its own lifecycle and child object cannot belong to another parent object?','Aggregation','Composition','Encapsulation','Association',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(29,3,9,'(JAVA)Which of the following is used with the switch statement?','Continue','Exit','break','do',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(30,3,10,'(JAVA) Which of the following is not a decision making statement?','if','if-else','switch','do-while',4);
+
+SQL LEVEL 1
+
 INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
 VALUES(31,4,1,'(SQL)Which data manipulation command is used to combines the records from one or more tables?', 'SELECT', 'PROJECT', 'JOIN', 'PRODUCT', 3);
 INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
@@ -18,3 +94,162 @@ INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OP
 VALUES(39,4,9,'(SQL)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
 INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
 VALUES(40,4,10,'(SQL)Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);	
+
+
+SQL LEVEL 2
+
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(41,5,1,'(SQL)Which data manipulation command is used to combines the records from one or more tables?', 'SELECT', 'PROJECT', 'JOIN', 'PRODUCT', 3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(42,5,2,'(SQL)Which of the following is not a valid SQL type?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 1);		
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(43,5,3,'(SQL)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(44,5,4,'(SQL)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(45,5,5,'(SQL)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(46,5,6,'(SQL)The command used to delete a particular column in a relation is ', 'UPDATE TABLE', 'TRUNCATE COLUMN', 'ALTER , DROP', 'DELETE COLUMN', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(47,5,7,'(SQL)Which of the following operations requires the relations to be union compatible?', 'UNION','INTERSECTION','DIFFERENCE','ALL OF THESE', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(48,5,8,'(SQL)The database language that allows us to access data in a database is called :', 'DCL', 'DML', 'DDL', 'None', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(49,5,9,'(SQL)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(50,5,10,'(SQL)Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);	
+
+
+SQL LEVEL 3 
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(51,6,1,'(SQL)Which data manipulation command is used to combines the records from one or more tables?', 'SELECT', 'PROJECT', 'JOIN', 'PRODUCT', 3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(52,6,2,'(SQL)Which of the following is not a valid SQL type?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 1);		
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(53,6,3,'(SQL)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(54,6,4,'(SQL)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(55,6,5,'(SQL)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(56,6,6,'(SQL)The command used to delete a particular column in a relation is ', 'UPDATE TABLE', 'TRUNCATE COLUMN', 'ALTER , DROP', 'DELETE COLUMN', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(57,6,7,'(SQL)Which of the following operations requires the relations to be union compatible?', 'UNION','INTERSECTION','DIFFERENCE','ALL OF THESE', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(58,6,8,'(SQL)The database language that allows us to access data in a database is called :', 'DCL', 'DML', 'DDL', 'None', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(59,6,9,'(SQL)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(60,6,10,'(SQL)Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);	
+
+
+C++ LEVEL 1
+
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(61,7,1,'(C++)Which of the following operations requires the relations to be union compatible?', 'UNION','INTERSECTION','DIFFERENCE','ALL OF THESE', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(62,7,2,'(C++)The database language that allows us to access data in a database is called :', 'DCL', 'DML', 'DDL', 'None', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(63,7,3,'(C++)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(64,7,4,'(C++)Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(65,7,5,'(C++)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);						
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(66,7,6,'(C++)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(67,7,7,'(C++)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(68,7,8,'(C++)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(69,7,9,'Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(70,7,10,'(C++)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);
+
+
+C++ LEVEL 2  71 - 80 
+C++ LEVEL 3  81 - 90
+PYTHON LEVEL 1  91 - 100
+
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(91,10,1,'(PYTHON)Which of the following operations requires the relations to be union compatible?', 'UNION','INTERSECTION','DIFFERENCE','ALL OF THESE', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(92,10,2,'(PYTHON)The database language that allows us to access data in a database is called :', 'DCL', 'DML', 'DDL', 'None', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(93,10,3,'(PYTHON)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(94,10,4,'(PYTHON)Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(95,10,5,'(PYTHON)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);					
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(96,10,6,'(PYTHON)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(97,10,7,'(PYTHON)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(98,10,8,'(PYTHON)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(99,10,9,'(PYTHON)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(100,10,10,'(PYTHON)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);
+
+
+PYTHON LEVEL 2 101 - 110
+PYTHON LEVEL 3 111 - 120
+
+HTML LEVEL 1 121 - 130
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(121,13,1,'(HTML)Which of the following operations requires the relations to be union compatible?', 'UNION','INTERSECTION','DIFFERENCE','ALL OF THESE', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(122,13,2,'(HTML)The database language that allows us to access data in a database is called :', 'DCL', 'DML', 'DDL', 'None', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(123,13,3,'(HTML)Which of the following is a comparison operator in SQL?', 'Double equal sign ( == )', 'LIKE', 'BETWEEN', 'Single equal sign ( = )', 4);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(124,13,4,'Which of the following is a legal expression in SQL?', 'SELECT NULL FROM SALES', 'SELECT NAME FROM SALES;', 'SELECT * FROM SALES WHEN PRICE = NULL;', 'SELECT *FROM SALES;', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(125,13,5,'(HTML)Which of the following is not OOPS concept in Java?', 'Inheritance', 'Encapsulation', 'Polymorphism', 'Compilation', 4);					
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(126,13,6,'(HTML)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(127,13,7,'(HTML)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(128,13,8,'(HTML)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(129,13,9,'(HTML)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(130,13,10,'(HTML)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);
+
+HTML LEVEL 2 131 - 140
+HTML LEVEL 3 141 - 150
+
+CSS LEVEL 4 151 - 160
+
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(151,16,1,'(CSS)What is it called where child object gets killed if parent object is killed?','Aggregation','Composition','Encapsulation','Association',2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(152,16,2,'(CSS)What is it called where object has its own lifecycle and child object cannot belong to another parent object?','Aggregation','Composition','Encapsulation','Association',1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(153,16,3,'(CSS)Which of the following is used with the switch statement?','Continue','Exit','break','do',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(154,16,4,' (CSS)Which of the following is not a decision making statement?','if','if-else','switch','do-while',4);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(155,16,5,'(CSS)Which of the following is a type of polymorphism in Java?', 'Compile time polymorphism', 'Execution time polymorphism', 'Multiple polymorphism', 'Multilevel polymorphism', 1);				
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(156,16,6,'(CSS)When does method overloading is determined?', 'At run time','At compile time','At coding time','At execution time', 2);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(157,16,7,'(CSS)Which concept of Java is a way of converting real world objects in terms of class?', 'Polymorphism','Encapsulation','Abstraction','Inheritance',3);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(158,16,8,'(CSS)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);	
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(159,16,9,'(CSS)The SQL used by front-end application programs to request data from the DBMS is called ', 'DML', 'DDL', 'VDL', 'SDL', 1);
+INSERT INTO QUESTION(QUESID,SUBJECTID,QUESTIONNUMBER,QUESDESC,OPTION1,OPTION2,OPTION3,OPTION4,CORRECT_OPTION) 
+VALUES(160,16,10,'(CSS)Which operator is used to compare a value to a specified list of values?', 'DECIMAL', 'NUMERIC', 'FLOAT', 'CHARACTER', 3);
+
+CSS LEVEL 4 161 - 170
+CSS LEVEL 4 171 - 180
+
+
